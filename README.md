@@ -6,6 +6,8 @@ First “tech” you owned
 Hometown
 Computer Science
  
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 Brief Bio about yourself
 Must use markdown elements:
 Link
@@ -18,9 +20,4 @@ Ordered list
 Checkboxes
 Unordered list
 
-Where you teach
-First “tech” you owned
-Hometown
-Field of Study
-Contact info (publicly available, like your school email. Optional)
-Brief Bio about yourself
+![an image](https://myoctocat.com/assets/images/base-octocat.svg) 

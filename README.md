@@ -1,7 +1,7 @@
 # ejourney001
 Profile README
 ## Introduction
-Arcadia University
+
 First “tech” you owned
 Hometown
 Computer Science
